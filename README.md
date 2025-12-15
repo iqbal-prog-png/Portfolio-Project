@@ -33,12 +33,6 @@ This is a simple responsive portfolio website built using _HTML and CSS_ as part
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here if you want)
-
----
-
 ## ✨ Learning Outcome
 
 - Learned how to structure a webpage using semantic HTML
@@ -50,7 +44,7 @@ This is a simple responsive portfolio website built using _HTML and CSS_ as part
 
 ## 👤 Author
 
-_Sayed Ikbal_
+_Sayed Md Ikbal_
 
 ---
 
